@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.env
+cache_categorias.json
+grafico_gastos.png
+extratos_reais/
